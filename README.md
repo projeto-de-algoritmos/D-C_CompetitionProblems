@@ -14,15 +14,25 @@ Iremos resolver algumas questões do Codeforces, um site de questões de program
 ## Vídeo
 Em Breve.
 ## Screenshots
-Em Breve.
+
+### Qestão_#689-D
+Enunciado: https://codeforces.com/contest/1461/problem/D
+Link do Accepted: https://codeforces.com/problemset/submission/1461/168151114 
+![Questao Resolvida](./Screenshots/screenshotQuestaoD.png)
 
 ## Instalação 
 **Linguagem**: C++<br>
 **Framework**: N/A<br>
 
 ## Uso 
-Em Breve.
+abra o terminal dentro da pasta da respectiva questão e rode
 
+```
+g++ -o questao pretty.C 
+```
+```
+./questao < in.txt
+```
 ## Outros 
 N/A
 
