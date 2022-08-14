@@ -20,8 +20,13 @@ Enunciado: https://codeforces.com/contest/1461/problem/D
 Link do Accepted: https://codeforces.com/problemset/submission/1461/168151114 
 ![Questao Resolvida](./Screenshots/screenshotQuestaoD.png)
 
+### Questão_#1490-D
+Enunciado: https://codeforces.com/contest/1490/problem/D
+Link do Accepted: https://codeforces.com/problemset/submission/1490/168318320
+![Questao Resolvida](./Screenshots/questaoPython.png)
+
 ## Instalação 
-**Linguagem**: C++<br>
+**Linguagem**: C++, Python3<br>
 **Framework**: N/A<br>
 
 ## Uso 
