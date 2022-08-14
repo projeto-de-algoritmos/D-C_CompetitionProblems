@@ -17,14 +17,21 @@ Em Breve.
 
 ### Qestão_#689-D
 Enunciado: https://codeforces.com/contest/1461/problem/D
+
 Link do Accepted: https://codeforces.com/problemset/submission/1461/168151114 
 ![Questao Resolvida](./Screenshots/screenshotQuestaoD.png)
 
 ### Questão_#1490-D
 Enunciado: https://codeforces.com/contest/1490/problem/D
+
 Link do Accepted: https://codeforces.com/problemset/submission/1490/168318320
 ![Questao Resolvida](./Screenshots/questaoPython.png)
 
+### Questão_#1400-E
+Enunciado: https://codeforces.com/problemset/problem/1400/E
+
+Link do Accepted: https://codeforces.com/problemset/submission/1400/168323145
+![Questao Resolvida](./Screenshots/questao_ClearTheMultiset.png)
 ## Instalação 
 **Linguagem**: C++, Python3<br>
 **Framework**: N/A<br>
