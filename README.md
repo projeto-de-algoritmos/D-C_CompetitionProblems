@@ -15,28 +15,30 @@ Iremos resolver algumas questões do Codeforces, um site de questões de program
 Em Breve.
 ## Screenshots
 
-### Qestão_#313-B
+### Qestão_559-B
 Enunciado: https://codeforces.com/problemset/problem/559/B
 
 Link do Accepted: https://codeforces.com/problemset/submission/559/168328148
 ![Questao Resolvida](./Screenshots/questao_eqStrings.png)
-### Qestão_#689-D
+
+### Questão_1400-E
+Enunciado: https://codeforces.com/problemset/problem/1400/E
+
+Link do Accepted: https://codeforces.com/problemset/submission/1400/168323145
+![Questao Resolvida](./Screenshots/questao_ClearTheMultiset.png)
+### Qestão_1461-D
 Enunciado: https://codeforces.com/contest/1461/problem/D
 
 Link do Accepted: https://codeforces.com/problemset/submission/1461/168151114 
 ![Questao Resolvida](./Screenshots/screenshotQuestaoD.png)
 
-### Questão_#1490-D
+### Questão_1490-D
 Enunciado: https://codeforces.com/contest/1490/problem/D
 
 Link do Accepted: https://codeforces.com/problemset/submission/1490/168318320
 ![Questao Resolvida](./Screenshots/questaoPython.png)
 
-### Questão_#1400-E
-Enunciado: https://codeforces.com/problemset/problem/1400/E
 
-Link do Accepted: https://codeforces.com/problemset/submission/1400/168323145
-![Questao Resolvida](./Screenshots/questao_ClearTheMultiset.png)
 ## Instalação 
 **Linguagem**: C++, Python3<br>
 **Framework**: N/A<br>
