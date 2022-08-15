@@ -15,6 +15,11 @@ Iremos resolver algumas questões do Codeforces, um site de questões de program
 Em Breve.
 ## Screenshots
 
+### Qestão_#313-B
+Enunciado: https://codeforces.com/problemset/problem/559/B
+
+Link do Accepted: https://codeforces.com/problemset/submission/559/168328148
+![Questao Resolvida](./Screenshots/questao_eqStrings.png)
 ### Qestão_#689-D
 Enunciado: https://codeforces.com/contest/1461/problem/D
 
@@ -40,7 +45,7 @@ Link do Accepted: https://codeforces.com/problemset/submission/1400/168323145
 abra o terminal dentro da pasta da respectiva questão e rode
 
 ```
-g++ -o questao pretty.C 
+g++ -o questao (nome da solução).C 
 ```
 ```
 ./questao < in.txt
