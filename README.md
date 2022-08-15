@@ -46,11 +46,16 @@ Link do Accepted: https://codeforces.com/problemset/submission/1490/168318320
 ## Uso 
 abra o terminal dentro da pasta da respectiva questão e rode
 
+### C++
 ```
 g++ -o questao (nome da solução).C 
 ```
 ```
 ./questao < in.txt
+```
+### Python
+```
+python3 (nome da solução).py < teste
 ```
 ## Outros 
 N/A
